@@ -19,13 +19,6 @@ A simple and responsive calculator built with **HTML**, **CSS**, and **JavaScrip
 - **CSS3** – Styling and responsive design  
 - **JavaScript** – Functional logic and DOM handling  
 
----
-
-## 🚀 Live Demo
-
-
-
----
 
 ## 🧩 Folder Structure
 
