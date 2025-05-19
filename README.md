@@ -21,9 +21,7 @@ A simple and responsive calculator built with **HTML**, **CSS**, and **JavaScrip
 
 ## 🚀 Live Demo
 
-[🔗 ## 🚀 Live Demo
-
-[🔗]
+[🔗 https://kkumar2003.github.io/calculator/]
 
 ## 🧩 Folder Structure
 
