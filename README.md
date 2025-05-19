@@ -30,5 +30,7 @@ calculator/
 ├── style.css
 └── script.js
 
+## 📸 Screenshots
 
+![calculator](https://github.com/user-attachments/assets/66292ae2-a974-4208-b628-a13100892878)
 
